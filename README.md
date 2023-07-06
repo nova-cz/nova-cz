@@ -18,8 +18,6 @@
 </div>
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-- 🔭 I am currently studying an Engineering degree in Computer Science **.
-
 - 🌱 I'm currently looking to improve my B2 in English to a C1 and to improve my programming logic.
 
 - ☁️ I am in a learning stage. Therefore, I am learning at the moment **Java, TypeScript, Node.js, Tkinter with Python**.
