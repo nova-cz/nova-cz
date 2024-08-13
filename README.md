@@ -9,7 +9,7 @@
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/pacman.gif" alt="pacman" />
 </div>
 
 <div id="user-content-toc">
@@ -26,7 +26,7 @@
 
 - 📝 Additionally, I am mentoring a robotics team, Aztroid II FTC #21804, and competing at the state level with them.
 
-- 📫 Feel free to contact me at **miguelcruzreys@outlook.com**.
+- 📫 Feel free to contact me at **cruzmiguelangel858@gmail.com**.
 
 - 🏠 I also enjoy developing projects with Onshape, a 3D design platform.
 
