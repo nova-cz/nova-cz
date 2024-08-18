@@ -2,8 +2,7 @@
 
 <div id="user-content-toc">
     <ul align="center">
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Miguel+Cruz;Welcome+to+my+profile!" alt="Typing SVG" /></a>
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&width=435&lines=I'm+a+student+of+Computer+Science." alt="Typing SVG" /></a><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&width=435&lines=I'm+a+student+of+Computer+Science." alt="Typing SVG" /></a>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&width=435&lines=HI+%F0%9F%91%8B%2C+I'm+Miguel+Cruz;Welcome+to+my+profile!+;I'm+studying+CS.+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
     </ul>
 </div>
 
