@@ -12,12 +12,6 @@
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/pacman.gif" alt="pacman" />
 </div>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
-
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 - 🗣️ **English:** English (C1 IELTS).
