@@ -2,7 +2,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Miguel Cruz</h1></summary>
+      [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Miguel+Cruz;Welcome+to+my+profile!;I'm+a+student+of+Computer+Science+while+learning+about+web+development.I'm+a+student+of+Computer+Science+while+learning+about+web+development.)](https://git.io/typing-svg)
   </ul>
 </div>
 
