@@ -34,8 +34,21 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/miguelcr4/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/miguelcr4/">
+   <img width="32px" alt="LinkedIn" title="LinkedIn" src="ruta/del/icono/linkedin.svg"/>
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/ngl.mike/">
+   <img width="32px" alt="Instagram" title="Instagram" src="ruta/del/icono/instagram.svg"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.tiktok.com/@rzzaike">
+   <img width="32px" alt="TikTok" title="TikTok" src="ruta/del/icono/tiktok.svg"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="cruzmiguelangel858@gmail.com">
+   <img width="32px" alt="Email" title="Email" src="ruta/del/icono/email.svg"/>
+  </a>
 </p>
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
