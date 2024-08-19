@@ -8,10 +8,6 @@
 <p align = "center">
 	<img src = "https://komarev.com/ghpvc/?username=nova-cz&style=plastic&color=blue" alt = "Profile Views"/>
 </p>
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
-
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 - 🗣️ **English:** English (C1 IELTS).
@@ -41,6 +37,13 @@
   <a href="cruzmiguelangel858@gmail.com">
    <img width="32px" alt="Email" title="Email" src="ruta/del/icono/email.svg"/>
   </a>
+</p>
+
+<!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
