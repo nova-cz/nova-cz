@@ -41,13 +41,10 @@
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-<div align="center">
-  [![](https://visitcount.itsvg.in/api?id=nova-cz&label=Profile%20Views&color=8&icon=3&pretty=false)](https://visitcount.itsvg.in)
-</div>
+
