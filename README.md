@@ -16,9 +16,7 @@
 
 - 🗣️ **English:** English (C1 IELTS).
   
-- ☁️ I am in a learning stage. Therefore, I am currently learning **Java, TypeScript, Node.js, and Tkinter with Python**.
-
-- 📝 Additionally, I am mentoring a robotics team, Aztroid II FTC #21804, and competing at the state level with them.
+- ☁️ I am in a learning stage. Therefore, I am currently learning **React, TypeScript, SQL, Python**.
 
 - 📫 Feel free to contact me at **cruzmiguelangel858@gmail.com**.
 
