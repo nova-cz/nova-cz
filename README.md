@@ -7,7 +7,7 @@
 </div>
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=nova-cz&style=plastic&color=blueviolet" alt = "Profile Views"/>
+	<img src = "https://komarev.com/ghpvc/?username=nova-cz&style=plastic&color=blue" alt = "Profile Views"/>
 </p>
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
