@@ -75,10 +75,14 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### TOP Languajes
+## Most Uses Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nova-cz&layout=compact)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nova-cz&show_icons=true&theme=radical)
+
+
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
+## Snake Game
 
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
