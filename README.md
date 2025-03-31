@@ -25,7 +25,7 @@
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
 ## About me 👨‍💻
 
-- 🗣️ **English:** English (C1 IELTS).
+- 🗣️ **English:** English B2+.
   
 - ☁️ I am in a learning stage. Therefore, I am currently learning **React, TypeScript, SQL, Python**.
 
