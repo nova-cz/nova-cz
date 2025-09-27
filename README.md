@@ -25,9 +25,9 @@
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
 ## About me 👨‍💻
 
-- 🗣️ **English:** English B2+.
+- 🗣️ **English:** English C1+.
   
-- ☁️ I am in a learning stage. Therefore, I am currently learning **React, TypeScript, SQL, Python**.
+- ☁️ I am in a learning stage. Therefore, I am currently learning **FastAPI, Backend, PostgreSQL**.
 
 - 📫 Feel free to contact me at **cruzmiguelangel858@gmail.com**.
 
@@ -35,28 +35,20 @@
 
 - 📱 I enjoy creating content about my journey studying Computer Science.
 
-- ⚙️ I also enjoy developing projects with Onshape, a 3D design platform.
-
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
 ## Technologies 💻
 
 ### 📋 Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 
 ### 📚 Frameworks, Platforms and Libraries
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### 💾 Databases
 
@@ -84,10 +76,10 @@
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
 ## Snake Game
 
-<p align = "center">
+<!-- <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
-
+-->
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 
